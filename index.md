@@ -1,5 +1,7 @@
-## Welcome to Mine SIDER på GIT
-You can use the [editor on GitHub](https://github.com/thecodinggenius/minwebsted/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Velkommen til mit websted på GIT
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+Man kan redigere et websted med [editor on GitHub](https://github.com/thecodinggenius/minwebsted/edit/gh-pages/index.md) 
 
